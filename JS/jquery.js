@@ -10846,7 +10846,7 @@ if ( typeof define === "function" && define.amd ) {
 
 
 
-...
+
 var
 
 	// Map over jQuery in case of overwrite
