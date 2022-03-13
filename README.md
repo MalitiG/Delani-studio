@@ -1,7 +1,7 @@
 # {Maliti Hassan}
 #### {Delani studio is a website application that provides it's services snd you can reach them through an email form}
 
-n}, {13/03/2022}
+n}, {11/03/2022}
 #### By **{maliti}**
 ## Description
 {Delani studio is a website application that provides it's services snd you can reach them through an email form}
