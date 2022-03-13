@@ -57,9 +57,9 @@ $(document).ready(function(){
     }).mouseleave(function() {
       $(".work8-overlay").hide();
     });
-  
+  mmmm
     
-  ,,,,
+  
    $("form#form1").on('submit',function(event){
              event.preventDefault();
              var name = $("input#name").val();
