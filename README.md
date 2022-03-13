@@ -21,7 +21,7 @@ submit your message
 ## Known Bugs
 {there are no known bugs}
 ## Technologies Used
-{HTML,CSS,Git hub and JAVA SCRIPT}
+{HTML,CSS,Git hub,JQUERY and JAVA SCRIPT}
 ## Support and contact details
 0796516833 .EMAIL:malitihassan98@gmail.com
 ### License
