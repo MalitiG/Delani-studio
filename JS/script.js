@@ -59,7 +59,7 @@ $(document).ready(function(){
     });
   
     
-  
+  ,,,,
    $("form#form1").on('submit',function(event){
              event.preventDefault();
              var name = $("input#name").val();
